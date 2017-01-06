@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-d3example",
+  "version": "1.0.0",
+  "description": "current is simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimSiHun/nodejs-d3example.git"
+  },
+  "author": "shkim (paradaise119@gmail.com)",
+  "license": "SEE LICENSE IN LICENS",
+  "bugs": {
+    "url": "https://github.com/KimSiHun/nodejs-d3example/issues"
+  },
+  "homepage": "https://github.com/KimSiHun/nodejs-d3example#readme"
+}
